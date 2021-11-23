@@ -1,0 +1,35 @@
+.modal {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.insideModal {
+  width: 50vw;
+  background-color: lightblue;
+}
+.modalFooter {
+  padding: 10px;
+  display: flex;
+}
+#modal-title {
+  text-align: center;
+}
+.modalBody {
+  text-align: center;
+}
+.container {
+  padding: 50px;
+  text-align: center;
+}
+#openButton {
+  margin: auto;
+}
+#closeButton {
+  margin: auto;
+}
