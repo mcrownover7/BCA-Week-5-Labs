@@ -1,0 +1,3 @@
+The React Router framework is a powerful tool in your arsenal as a developer. It allows you to build React applications (which are always single page web apps) that behave like multi-page web apps!
+
+Let's practice using React Router by setting up a simple site with a navigation bar that will allow us to jump between different pages as if we were navigating on a multi-page web app while keeping a consistent header, and nav bar.
